@@ -1,1 +1,7 @@
-# variables.tf
+variable "name" {
+  
+}
+
+variable "location" {
+  
+}

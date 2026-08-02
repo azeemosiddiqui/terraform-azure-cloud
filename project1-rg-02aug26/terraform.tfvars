@@ -1,1 +1,2 @@
-# terraform.tfvars
+name = "az-rg"
+location = "eastus"
