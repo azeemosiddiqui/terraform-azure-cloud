@@ -2,19 +2,18 @@
 .terraform/
 *.tfstate
 *.tfstate.*
-*.tfvars
 *.tfvars.json
 *.tfplan
 crash.log
 crash.*.log
 
-# Keep Lock File
+# Keep Terraform Lock File
 !.terraform.lock.hcl
 
 # IDE
 .vscode/
 .idea/
 
-# OS
+# OS Files
 .DS_Store
 Thumbs.db
