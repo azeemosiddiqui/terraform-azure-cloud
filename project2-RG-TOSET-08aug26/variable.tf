@@ -11,6 +11,7 @@ variable "rg_names" {
 
 ###
 variable "rg_names" {
+  description = "variable for RG"
   type = list(string)
 }
 
